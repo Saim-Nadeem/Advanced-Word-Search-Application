@@ -112,7 +112,7 @@ Total occurrences found: 4
 
 ## 🖼️ GUI Preview
 
-| File Selection & Options       | Search Results with Highlighting   |
+| KMP                           | Brute Force                        |
 |-------------------------------|------------------------------------|
 | ![GUI 1](images/img1.png)     | ![GUI 2](images/img2.png)          |
 
