@@ -77,13 +77,13 @@ python word_search_gui.py
 
 ## 🧭 User Instructions
 
-1. Launch the app by running `word_search_gui.py`
-2. Click **“Select Files”** to choose `.txt` files
-3. Type a **search term**
+1. Launch the app by running `word_search_gui.py`  
+2. Click **“Select Files”** to choose `.txt` files  
+3. Type a **search term**  
 4. Select your options:
-   - ✅ Whole Word Match
-   - ✅ Case Sensitive
-   - ✅ Algorithm: Brute Force or KMP
+  - ✅ Whole Word Match
+  - ✅ Case Sensitive
+  - ✅ Algorithm: Brute Force or KMP  
 5. Click **“Search”**
 6. Results will be displayed below with matches and context
 
@@ -110,21 +110,19 @@ Total occurrences found: 4
 
 ---
 
-## 🖼️ GUI Overview
+## 🖼️ GUI Preview
 
-- Dark theme using `ttk` clam style
-- Search box with custom font
-- Search options (checkboxes + radio buttons)
-- Scrollable result area with color highlights
-- Status bar to show real-time progress
+| File Selection & Options       | Search Results with Highlighting   |
+|-------------------------------|------------------------------------|
+| ![GUI 1](images/img1.png)     | ![GUI 2](images/img2.png)          |
 
 ---
 
 ## ⚠️ Error Handling
 
-- If search term is empty → Shows a warning
-- If no file is selected → Prompts user to select files
-- If file encoding fails → Displays detailed error message
+- If search term is empty → Shows a warning  
+- If no file is selected → Prompts user to select files  
+- If file encoding fails → Displays detailed error message  
 
 ---
 
@@ -134,7 +132,10 @@ Total occurrences found: 4
 ├── word_search_gui.py         # Main application script
 ├── requirements.txt           # Dependency list
 ├── README.md                  # Project documentation
-└── LICENSE                    # MIT License file
+├── LICENSE                    # MIT License file
+└── images/
+    ├── img1.png               # GUI screenshot 1
+    └── img2.png               # GUI screenshot 2
 ```
 
 ---
