@@ -162,6 +162,6 @@ See the [LICENSE](LICENSE) file for full terms.
 ## 👤 Author
 
 **Saim Nadeem**  
-🔗 GitHub: [Saim-Nadeem](https://github.com/Saim-Nadeem)
+ GitHub: [Saim-Nadeem](https://github.com/Saim-Nadeem)
 
 ---
